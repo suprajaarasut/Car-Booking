@@ -1,4 +1,10 @@
 Call Taxi Booking
+**STEPS TO RUN THE CODE**
+1.CLICK "https://www.onlinegdb.com/online_c_compiler"this URL
+2.Check for intendation 
+3.Give "RUN" command to run the code 
+4.And the expected output will be displayed on the output window
+
 •	FEATURES:
 1.This is a passenger booking app where you can travel conveniently availing taxi service within 5 minutes of requesting a ride.
 2.Figures out equal ride opportunity for each driver of respective cabs considering the taxi which earned least during the day.
@@ -7,14 +13,13 @@ Call Taxi Booking
 •	COMMANDS:
 
       SYNTAX	                          DESCRIPTION
-Struct customer details        	Lists out the details of the customer such as customer ID, starting point ,end point ,time 
-Struct taxi details	            Lists out the details of the taxi such as current location of the taxi,time,pick up from,to drop location,amount charged 
-int total price ()            	Amount estimated for a drive based on the distance travelled 
-int calculate price ()        	Its allocated based on the cabs that’s availed nearest to the customer and also by considering the drivers Income earned in a day 
-int customer call ()          	Sharing all the booking essentials to the rider to pick and drop the customer.
-Void taxi entry details	()      It will denotes the current taxi number that will tend to give the ride with stating the customer details that was given during the booking period
-int main ( )	                  It is the actual design of how the process will be preceeded over.The loop continues to run for each second and gives out the actual info as per
-                                the details we enter.For instance ,if we give option 1 then it will be asked for certain details as listed below 
+Struct customer details.....>       Lists out the details of the customer such as customer ID, starting point ,end point ,time 
+Struct taxi details.........>	      Lists out the details of the taxi such as current location of the taxi,time,pick up from,to drop location,amount charged 
+int total price ()..........>       Amount estimated for a drive based on the distance travelled 
+int calculate price().......>       Its allocated based on the cabs that’s availed nearest to the customer and also by considering the drivers Income earned in a day 
+int customer call ()........>       Sharing all the booking essentials to the rider to pick and drop the customer.
+Void taxi entry details	()..>       It will denotes the current taxi number that will tend to give the ride with stating the customer details that was given during the booking                                       period
+int main ( )................>      It is the actual design of how the process will be preceeded over.The loop continues to run for each second and gives out the actual info as                                      per the details we enter.For instance ,if we give option 1 then it will be asked for certain details as listed below 
 
 *******SAMPLE OUTPUT:*******
 Enter
